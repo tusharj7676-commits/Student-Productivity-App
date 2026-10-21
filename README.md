@@ -75,3 +75,18 @@ We welcome contributions from the community to make Fusion Ease even better. To 
 
 
 Please ensure that you utilize FlutterDevTools before making any contributions.
+
+
+
+
+
+## My Contributions
+
+This is my customized learning version of Fusion Ease.
+
+Planned improvements:
+- Improve the student dashboard UI.
+- Add a daily task completion summary.
+- Improve the README with setup instructions and screenshots.
+
+Note: Features will be marked complete only after implementation and testing.
